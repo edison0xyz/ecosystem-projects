@@ -1,0 +1,20 @@
+{
+    "name": "Suberra",
+    "slug": "suberra",
+    "date": "2023-01-09",
+    "highlight": "Payments Infrastructure that allows projects and businesses to accept cryptocurrency payments for anything from one-time payments to subscriptions.",
+    "logo": "/img/suberra.png",
+    "tags": [
+        "payments",
+        "defi",
+        "infrastructure",
+        "multi-chain"
+    ],
+    "status": "live",
+    "website": "https://suberra.com",
+    "twitter": "https://twitter.com/SuberraProtocol",
+    "github": "https://github.com/suberra",
+    "summary": "Suberra is a Web 3.0 payments platform that allows businesses to accept crypto payments from anywhere for anything. It provides the fastest and easiest way to offer recurring or one-time crypto payments. It allows crypto pull-based payments, making payment experience from crypto wallets into one that is similar to credit cards. It is also a multi-chain platform with support for over 100 wallets and gasless USDC transactions to provide a frictionless user experience.",
+    "telegram": "https://t.me/suberra_protocol",
+    "docs": "https://docs.suberra.com/"
+}
